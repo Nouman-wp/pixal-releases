@@ -25,9 +25,8 @@ That warning appears for any installer Windows hasn't seen downloaded often
 yet. Each release lists SHA-256 checksums in `SHA256SUMS.txt` so you can check
 that your download is the real one.
 
-macOS is coming soon. Some releases carry an early Mac build for testing; it
-isn't supported yet, so the website doesn't offer it. Linux builds appear on the
-[downloads page](https://pixal.caspx.in/downloads) as releases include them.
+macOS and Linux are coming soon. Releases carry early Mac and Linux builds for
+testing; they aren't supported yet, so the website doesn't offer them.
 
 ## Reporting problems
 
