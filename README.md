@@ -30,5 +30,7 @@ testing; they aren't supported yet, so the website doesn't offer them.
 
 ## Reporting problems
 
-Open an [issue](https://github.com/Nouman-wp/pixal-releases/issues). For security
-issues, see [SECURITY.md](SECURITY.md).
+Use **Report a bug** in Pixal (Settings → About), or the
+[bug report form](https://pixal.caspx.in/report) on the website. You can also
+open an [issue](https://github.com/Nouman-wp/pixal-releases/issues) here. For
+security issues, see [SECURITY.md](SECURITY.md).
