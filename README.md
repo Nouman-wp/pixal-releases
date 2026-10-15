@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Nouman-wp/pixal-releases/releases"><img src="https://img.shields.io/badge/View_releases-on_GitHub-3d72d6?style=for-the-badge&logo=github&logoColor=white" alt="View releases on GitHub" height="40"></a>
+<a href="https://github.com/Nouman-wp/pixal-releases/releases"><img src=".github/assets/view-releases.png" width="300" alt="View releases"></a>
 
 <br><br>
 
